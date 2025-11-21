@@ -1,0 +1,8 @@
+/* Aqui le estoy diciendo que todos los body, input, textarea y button tengan 
+la fuente de space grotest */
+body,
+input,
+textarea,
+button{
+    font-family: "Space Grotesk", sans-serif;
+}
